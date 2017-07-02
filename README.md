@@ -4,6 +4,6 @@
 My name is Leo,I'm a middle school student.
 
 
- [https://haoxuansz.github.io](https://haoxuansz.github.io].
+ [https://haoxuansz.github.io](https://haoxuansz.github.io).
 
  
